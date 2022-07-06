@@ -21,6 +21,10 @@ A SQL database that tracks employees, their roles, and their respective departme
 
 
 
+https://user-images.githubusercontent.com/100746995/177472326-a4ac3418-ce38-4ffe-a09b-354b9f4b72f5.mp4
+
+
+
 
 
 
